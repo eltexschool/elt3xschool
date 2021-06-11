@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "errno.h": "c"
+    }
+}
